@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 621d0dd0eaa5a2c43bce6fd55f89cdfa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_0
+    21300002: UI_1
+    21300004: UI_2
+    21300006: UI_3
+    21300008: UI_4
+    21300010: UI_5
+    21300012: UI_6
+    21300014: UI_7
+    21300016: UI_8
+    21300018: UI_9
+    21300020: UI_10
+    21300022: UI_11
+    21300024: UI_12
+    21300026: UI_13
+    21300028: UI_14
+    21300030: UI_15
+    21300032: UI_16
+    21300034: UI_17
+    21300036: UI_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+    - name: UI_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+    - name: UI_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 1
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+    - name: UI_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 62
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+    - name: UI_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 13
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+    - name: UI_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+    - name: UI_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 59
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 14, y: 14, z: 11, w: 11}
+    - name: UI_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+    - name: UI_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+    - name: UI_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 257
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
